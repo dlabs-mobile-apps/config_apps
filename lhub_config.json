@@ -1,3 +1,15 @@
 {
-  "force_update": false
+	"force_update": false,
+	"store_version": {
+		"android": "1.2.8",
+		"ios": "1.2.8"
+	},
+	"store_link": {
+		"android": "https://play.google.com/store/apps/details?id=id.co.odyssey.learninghubmobile",
+		"ios": "https://apps.apple.com/us/app/learning-hub-mobile-apps/id1571426588"
+	},
+	"update_notes": {
+		"id": null,
+		"en": null
+	}
 }
