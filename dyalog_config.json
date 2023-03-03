@@ -1,3 +1,15 @@
 {
-  "force_update": true
+	"force_update": false,
+	"store_version": {
+		"android": "1.0.12",
+		"ios": "1.0.6"
+	},
+	"store_link": {
+		"android": "https://play.google.com/store/apps/details?id=id.co.odyssey.dyalog_mobileapps",
+		"ios": "https://apps.apple.com/us/app/dyalog-mobile-apps/id1569163752"
+	},
+	"update_notes": {
+		"id": null,
+		"en": null
+	}
 }
