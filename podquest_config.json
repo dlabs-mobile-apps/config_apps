@@ -1,4 +1,15 @@
-
 {
-  "force_update": false
+	"force_update": false,
+	"store_version": {
+		"android": "1.1.0",
+		"ios": "1.1.0"
+	},
+	"store_link": {
+		"android": "https://play.google.com/store/apps/details?id=id.co.odyssey.podquest",
+		"ios": "https://apps.apple.com/id/app/podquest/id1596854431"
+	},
+	"update_notes": {
+		"id": null,
+		"en": null
+	}
 }
