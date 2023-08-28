@@ -19,3 +19,10 @@ Podquest
 ```link
 https://raw.githubusercontent.com/dlabs-mobile-apps/config_apps/master/podquest_config.json
 ```
+
+
+Podquest
+
+```link
+https://raw.githubusercontent.com/dlabs-mobile-apps/config_apps/master/compass_config.json
+```
