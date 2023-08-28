@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/dlabs-mobile-apps/config_apps/master/podquest_
 ```
 
 
-Podquest
+Compass
 
 ```link
 https://raw.githubusercontent.com/dlabs-mobile-apps/config_apps/master/compass_config.json
